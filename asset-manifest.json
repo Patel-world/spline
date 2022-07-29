@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/spline/static/css/main.f53e03ad.css",
+    "main.js": "/spline/static/js/main.8545a103.js",
+    "static/js/232.314d566b.chunk.js": "/spline/static/js/232.314d566b.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/spline/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/spline/index.html",
+    "main.f53e03ad.css.map": "/spline/static/css/main.f53e03ad.css.map",
+    "main.8545a103.js.map": "/spline/static/js/main.8545a103.js.map",
+    "232.314d566b.chunk.js.map": "/spline/static/js/232.314d566b.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/spline/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f53e03ad.css",
+    "static/js/main.8545a103.js"
+  ]
+}
